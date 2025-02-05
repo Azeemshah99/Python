@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+altair
+numpy
+certifi  # For handling SSL certificate issues (important!)
